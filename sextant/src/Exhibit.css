@@ -1,0 +1,26 @@
+div.Exhibit {
+  float: left;
+  background-color: #D1C3BC;
+  color: #103900;
+  border: 0.25vw solid #103900;
+  border-radius: 2vw;
+  margin: 0.5vw;
+  text-align: center;
+}
+
+h2.ExhibitHeading {
+  font-size: 1.75vw;
+  font-weight: bold;
+}
+
+div.ExhibitContent {
+  margin: 0.5vw;
+  padding: 1vw;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5vw;
+  color: #12355B;
+  background-color: #F0EFF4;
+  border: 0.25vw solid #12355B;
+  border-radius: 2vw;
+}

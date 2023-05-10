@@ -6,6 +6,6 @@ div.Banner {
   font-size: 2vw;
   color: #12355B;
   background-color: #F0EFF4;
-  border: 0.25vw solid #12355B;
-  border-radius: 1.5vw;
+  border: 2px solid #12355B;
+  border-radius: 10px;
 }

@@ -13,7 +13,7 @@ class Latency extends Component {
   componentDidMount() {
     client.onmessage = (message) => {
       this.setState({
-        latency: new Date().getTime - message.data
+        latency: new Date().getTime() - message.data
       })
     };
   }

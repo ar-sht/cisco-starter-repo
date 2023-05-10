@@ -1,11 +1,12 @@
 div.Exhibit {
-  float: left;
+  display: inline-block;
   background-color: #D1C3BC;
   color: #103900;
   border: 0.25vw solid #103900;
-  border-radius: 2vw;
+  border-radius: 10px;
   margin: 0.5vw;
   text-align: center;
+  padding: 1vw;
 }
 
 h2.ExhibitHeading {
@@ -22,5 +23,5 @@ div.ExhibitContent {
   color: #12355B;
   background-color: #F0EFF4;
   border: 0.25vw solid #12355B;
-  border-radius: 2vw;
+  border-radius: 5px;
 }
